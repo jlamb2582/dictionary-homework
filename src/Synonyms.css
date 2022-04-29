@@ -8,3 +8,7 @@ display: inline-block;
 padding-right: 15px;
 font-size: 13px;
 }
+
+.Synonyms li {
+font-size: 15px;
+}

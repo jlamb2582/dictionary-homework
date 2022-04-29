@@ -8,6 +8,7 @@ if (props.synonyms) {
      {props.synonyms.map(function(synonym, index) {
     return (
      <li key={index}>
+     Synonym: {""}
      {synonym}
      </li>
     );
